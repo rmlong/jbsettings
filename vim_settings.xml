@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1544469260626">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/xex/cmake/FetchGoogleTest.txt" timestamp="1545175085695">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1544386998411">
         <mark key="[" line="2" column="0" />
@@ -14,11 +15,39 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/src/xex/CMakeLists.txt" timestamp="1545175122763">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" timestamp="1545174000744">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="26" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="26" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1544389057639">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" timestamp="1545175470320">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1544469260626">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/sst-framework/cmake/TPS.cmake" timestamp="1545175045031">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="7" column="70" />
       </file>
       <file name="$USER_HOME$/src/xex/cpp/xex/os/CMakeLists.txt" timestamp="1545173915372">
         <mark key="[" line="0" column="8" />
@@ -26,56 +55,84 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/src/xex/.gitignore" timestamp="1545175584932">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="18" />
+        <mark key="." line="99" column="18" />
+        <mark key="^" line="99" column="18" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="23" filename="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" />
+      <jump line="1" column="16" filename="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" />
+      <jump line="61" column="0" filename="$USER_HOME$/src/xex/.gitignore" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lib</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>lib</text>
+        <text>debug</text>
+      </register>
+      <register name="/" type="4">
+        <text>cmake</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8IGkgPDwgZW5kbDsK</text>
+        <text encoding="base64">Y21ha2UtYnVpbGQtZGVidWcvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBUkdQX0hFTFBfTE9OR19PTkxZLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eGV4LWNvbnRhaW5lci8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29udGFpbmVyLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgSGVsbG8KewpwdWJsaWM6Cn07Cg==</text>
+        <text encoding="base64">eGV4LXNjcmF0Y2gvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGxpY2l0IEhlbGxvV29ybGQoVCB2KSA6IHZhbF8odikge30K</text>
+        <text encoding="base64">c2NyYXRjaC8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIHhleC1zcGVjaWZpYyAjIyMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFQgdmFsOwo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UoU1RBVFVTICJiaW4gZGlyICR7Z3Rlc3RfQklOQVJZX0RJUn0iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3V0IDw8IGkgPDwgZW5kbDsK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UoU1RBVFVTICJzb3VyY2UgZGlyOiAke2d0ZXN0X1NPVVJDRV9ESVJ9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW5jbHVkZShGZXRjaEdvb2dsZVRlc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>cmake</last-search>
+      <last-offset />
+      <last-pattern>cmake</last-pattern>
+      <last-replace>gtest</last-replace>
+      <last-substitute>GTEST</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>GTEST</entry>
+        <entry>python</entry>
+        <entry>cmake</entry>
+      </history-search>
       <history-cmd>
+        <entry>qa</entry>
+        <entry>W</entry>
+        <entry>%s/GTEST/googletest/g</entry>
+        <entry encoding="base64">JzwsJz5zL0dURVNUL2d0ZXN0L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -123,6 +180,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
