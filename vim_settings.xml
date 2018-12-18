@@ -20,14 +20,20 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/CMakeLists.txt" timestamp="1545173915372">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBUkdQX0hFTFBfTE9OR19PTkxZLgo=</text>
+      <register name="&quot;" type="4">
+        <text>lib</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>lib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb3V0IDw8IGkgPDwgZW5kbDsK</text>
