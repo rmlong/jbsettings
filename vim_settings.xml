@@ -9,51 +9,55 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1544386998411">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/src/xex/CMakeLists.txt" timestamp="1545175122763">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-      </file>
-      <file name="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" timestamp="1545174000744">
-        <mark key="'" line="13" column="23" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="38" column="26" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1544389057639">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" timestamp="1545175470320">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" timestamp="1545179955126">
+        <mark key="'" line="62" column="66" />
+        <mark key="[" line="65" column="67" />
+        <mark key="]" line="65" column="67" />
+        <mark key="." line="65" column="67" />
+        <mark key="^" line="65" column="67" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1544469260626">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/SharedMemory.hpp" timestamp="1545186149700">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="16" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/src/sst-framework/cmake/TPS.cmake" timestamp="1545175045031">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="70" />
+      <file name="$USER_HOME$/src/xex/cmake/add_unittest.cmake" timestamp="1545176026562">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="28" column="29" />
+        <mark key="^" line="28" column="29" />
+        <mark key="." line="29" column="29" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/Filesystem.cpp" timestamp="1545179904759">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="15" />
+        <mark key="." line="55" column="15" />
+        <mark key="^" line="55" column="15" />
       </file>
       <file name="$USER_HOME$/src/xex/cpp/xex/os/CMakeLists.txt" timestamp="1545173915372">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/CMakeLists.txt" timestamp="1545179616139">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" timestamp="1545180083983">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/src/xex/.gitignore" timestamp="1545175584932">
         <mark key="'" line="61" column="0" />
@@ -62,63 +66,148 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/Filesystem.hpp" timestamp="1545179992866">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545179739073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/Defs.hpp" timestamp="1545175969631">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1545185993030">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/xex/CMakeLists.txt" timestamp="1545179646777">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/test/FilesystemTest.cpp" timestamp="1545180482878">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="42" />
+        <mark key="." line="37" column="42" />
+        <mark key="^" line="37" column="42" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cmake-build-debug/_deps/gtest-src/googletest/src/gtest.cc" timestamp="1545177117376">
+        <mark key="[" line="1192" column="14" />
+        <mark key="]" line="1193" column="18" />
+        <mark key="^" line="1193" column="18" />
+        <mark key="." line="1193" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" timestamp="1545179703117">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1544469260626">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/test/SharedMemoryTest.cpp" timestamp="1545180152205">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="42" column="55" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/Exception.hpp" timestamp="1545175932840">
+        <mark key="'" line="11" column="12" />
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="23" filename="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" />
       <jump line="1" column="16" filename="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" />
       <jump line="8" column="0" filename="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" />
       <jump line="61" column="0" filename="$USER_HOME$/src/xex/.gitignore" />
+      <jump line="11" column="12" filename="$USER_HOME$/src/xex/cpp/xex/Exception.hpp" />
+      <jump line="8" column="13" filename="$USER_HOME$/src/xex/cpp/xex/TypeTraits.hpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/src/xex/cmake/FetchGoogleTest.cmake" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/xex/CMakeLists.txt" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="12" column="59" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="31" column="76" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="36" column="58" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="42" column="17" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="47" column="51" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="48" column="81" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="53" column="49" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="54" column="79" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="58" column="70" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="62" column="66" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedConditionVariable.cpp" />
+      <jump line="31" column="15" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="33" column="36" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="64" column="21" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="37" column="21" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/test/FilesystemTest.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>cmake</text>
+        <text>FAIL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21ha2UtYnVpbGQtZGVidWcvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">eGV4LWNvbnRhaW5lci8K</text>
+        <text encoding="base64">ICAgICAgICBib29sIHZhbGlkKCkgY29uc3QgeyByZXR1cm4gYWRkcl8gIT0gbnVsbHB0cjsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29udGFpbmVyLwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eGV4LXNjcmF0Y2gvCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NyYXRjaC8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIHhleC1zcGVjaWZpYyAjIyMK</text>
+        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoU1RBVFVTICJiaW4gZGlyICR7Z3Rlc3RfQklOQVJZX0RJUn0iKQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UoU1RBVFVTICJzb3VyY2UgZGlyOiAke2d0ZXN0X1NPVVJDRV9ESVJ9IikK</text>
+        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5jbHVkZShGZXRjaEdvb2dsZVRlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cmake</last-search>
+      <last-search>FAIL</last-search>
       <last-offset />
-      <last-pattern>cmake</last-pattern>
-      <last-replace>gtest</last-replace>
-      <last-substitute>GTEST</last-substitute>
+      <last-pattern>FAIL</last-pattern>
+      <last-replace>-1</last-replace>
+      <last-substitute>FAIL</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -127,12 +216,21 @@
         <entry>GTEST</entry>
         <entry>python</entry>
         <entry>cmake</entry>
+        <entry>sst</entry>
+        <entry>swit</entry>
+        <entry>SUCCESS</entry>
+        <entry>FAIL</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
         <entry>W</entry>
         <entry>%s/GTEST/googletest/g</entry>
         <entry encoding="base64">JzwsJz5zL0dURVNUL2d0ZXN0L2c=</entry>
+        <entry>%s/sst/xex/g</entry>
+        <entry>%s/FAIL/-1/gc</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
+        <entry>wqa</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
