@@ -9,6 +9,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="28" />
       </file>
+      <file name="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" timestamp="1545174000744">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="26" />
+        <mark key="^" line="38" column="27" />
+        <mark key="." line="38" column="26" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1544389057639">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
@@ -22,11 +29,12 @@
         <mark key="." line="65" column="67" />
         <mark key="^" line="65" column="67" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/os/SharedMemory.hpp" timestamp="1545186149700">
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="44" column="16" />
-        <mark key="." line="37" column="16" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/SharedMemory.hpp" timestamp="1545188293838">
+        <mark key="'" line="78" column="74" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="108" />
+        <mark key="^" line="68" column="108" />
+        <mark key="." line="68" column="108" />
       </file>
       <file name="$USER_HOME$/src/xex/cmake/add_unittest.cmake" timestamp="1545176026562">
         <mark key="[" line="29" column="24" />
@@ -52,12 +60,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" timestamp="1545180083983">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="36" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" timestamp="1545188615123">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="15" />
+        <mark key="." line="99" column="15" />
+        <mark key="^" line="99" column="15" />
       </file>
       <file name="$USER_HOME$/src/xex/.gitignore" timestamp="1545175584932">
         <mark key="'" line="61" column="0" />
@@ -71,7 +79,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545179739073">
+      <file name="/Dummy.txt" timestamp="1545187733011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/xex/cpp/xex/Defs.hpp" timestamp="1545175969631">
@@ -118,18 +126,22 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/os/test/SharedMemoryTest.cpp" timestamp="1545180152205">
-        <mark key="[" line="42" column="52" />
-        <mark key="]" line="42" column="55" />
-        <mark key="." line="42" column="55" />
-        <mark key="^" line="42" column="55" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/os/test/SharedMemoryTest.cpp" timestamp="1545188244161">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="51" column="41" />
+        <mark key="]" line="51" column="54" />
+        <mark key="^" line="51" column="54" />
+        <mark key="." line="51" column="54" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/Exception.hpp" timestamp="1545175932840">
+      <file name="/fragment.mm" timestamp="1545187737535">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/xex/cpp/xex/Exception.hpp" timestamp="1545188102756">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+        <mark key="[" line="75" column="61" />
+        <mark key="]" line="75" column="62" />
+        <mark key="." line="75" column="62" />
+        <mark key="^" line="75" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -157,13 +169,24 @@
       <jump line="64" column="21" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
       <jump line="37" column="21" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
       <jump line="37" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/test/FilesystemTest.cpp" />
+      <jump line="72" column="84" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="72" column="74" filename="$USER_HOME$/src/xex/cpp/xex/os/SharedMemory.hpp" />
+      <jump line="59" column="20" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="110" column="3" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="114" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="111" column="15" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="107" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/xex/cpp/xex/os/detail/SharedMemory.cpp" />
+      <jump line="26" column="4" filename="$USER_HOME$/src/xex/cpp/xex/os/test/SharedMemoryTest.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text encoding="base64">bWlycm9yIA==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">bWlycm9yIA==</text>
       </register>
       <register name="/" type="4">
         <text>FAIL</text>
@@ -172,31 +195,31 @@
         <text encoding="base64">Y21ha2UtYnVpbGQtZGVidWcvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib29sIHZhbGlkKCkgY29uc3QgeyByZXR1cm4gYWRkcl8gIT0gbnVsbHB0cjsgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
+        <text encoding="base64">ICAgIDo6Y2xvc2UoZmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
+        <text encoding="base64">ICAgIC8vIG1hcCBhIGJ5dGVzICogMiBzaXplZCBzZWN0aW9uIHZpcnR1YWxseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIG1hcCBhY3R1YWwgbWVtb3J5IGludG8gbG93ZXIgaGFsZiBvZiB2aXJ0dWFsIHNlY3Rpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
+        <text encoding="base64">ICAgIGlmIChtaXJyb3IgIT0gcmVpbnRlcnByZXRfY2FzdDxjaGFyKj4oYWRkcl8pICsgYnl0ZXNfKSB7IEV4Y2VwdGlvbkJ1aWxkZXI8QXR0YWNoRXJyb3I+KCkgPDwgbmFtZSA8PCAiIHVuYWJsZSBtaXJyb3IgbWFwIHVwcGVyIHNlY3Rpb24iOyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC9EZWZzLmhwcCIK</text>
+        <text encoding="base64">ICAgIG1pcnJvciA9IDo6bW1hcChyZWludGVycHJldF9jYXN0PGNoYXIqPihhZGRyXykgKyBieXRlc18sIGJ5dGVzXywgUFJPVF9SRUFEIHwgUFJPVF9XUklURSwgTUFQX0ZJWEVEIHwgTUFQX1NIQVJFRCwgZmQsIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -222,15 +245,16 @@
         <entry>FAIL</entry>
       </history-search>
       <history-cmd>
-        <entry>W</entry>
         <entry>%s/GTEST/googletest/g</entry>
         <entry encoding="base64">JzwsJz5zL0dURVNUL2d0ZXN0L2c=</entry>
         <entry>%s/sst/xex/g</entry>
         <entry>%s/FAIL/-1/gc</entry>
-        <entry>q</entry>
-        <entry>wa</entry>
         <entry>wqa</entry>
         <entry>qa</entry>
+        <entry>qw</entry>
+        <entry>q</entry>
+        <entry>wa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
