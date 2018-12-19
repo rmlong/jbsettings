@@ -45,6 +45,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="0" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="0" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="CLASS_BRACE_STYLE" value="2" />

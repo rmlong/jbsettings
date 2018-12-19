@@ -9,13 +9,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/src/xex/cmake/add_xex_library.cmake" timestamp="1545174000744">
-        <mark key="'" line="13" column="23" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="^" line="38" column="27" />
-        <mark key="." line="38" column="26" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1544389057639">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="32" />
@@ -70,16 +63,17 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" timestamp="1545240202891">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="16" />
-        <mark key="." line="33" column="16" />
-        <mark key="^" line="33" column="16" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" timestamp="1545241340333">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="114" column="53" />
+        <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/uri/Scheme.hpp" timestamp="1545240103275">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/uri/Scheme.hpp" timestamp="1545241242198">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/src/xex/cpp/xex/os/detail/Filesystem.cpp" timestamp="1545179904759">
         <mark key="[" line="55" column="15" />
@@ -87,12 +81,12 @@
         <mark key="." line="55" column="15" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" timestamp="1545240231611">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" timestamp="1545241275063">
+        <mark key="'" line="127" column="41" />
+        <mark key="[" line="33" column="71" />
+        <mark key="]" line="33" column="71" />
+        <mark key="^" line="33" column="105" />
+        <mark key="." line="33" column="71" />
       </file>
       <file name="$USER_HOME$/src/xex/cpp/xex/os/CMakeLists.txt" timestamp="1545239603447">
         <mark key="[" line="7" column="0" />
@@ -272,6 +266,28 @@
       <jump line="11" column="50" filename="$USER_HOME$/src/xex/cpp/xex/uri/test/URIParserTest.cpp" />
       <jump line="16" column="0" filename="$USER_HOME$/src/xex/cpp/xex/uri/test/URITest.cpp" />
       <jump line="13" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/test/URIBuilderTest.cpp" />
+      <jump line="16" column="18" filename="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" />
+      <jump line="102" column="8" filename="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" />
+      <jump line="25" column="10" filename="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" />
+      <jump line="118" column="39" filename="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" />
+      <jump line="122" column="22" filename="$USER_HOME$/src/xex/cpp/xex/uri/URI.hpp" />
+      <jump line="15" column="23" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="37" column="8" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="14" column="60" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="46" column="32" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="56" column="0" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="75" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="80" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="86" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="92" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="97" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="102" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="107" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="112" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="117" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="122" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
+      <jump line="127" column="41" filename="$USER_HOME$/src/xex/cpp/xex/uri/detail/URI.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -280,53 +296,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Scheme</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Scheme</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Scheme</text>
+        <text>find_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgInhleC91cmkvZGV0YWlsL1NjaGVtZVN0cmluZ3MuaHBwIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInhleC91cmkvZGV0YWlsL1NjaGVtZVN0cmluZ3MuaHBwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4KI2luY2x1ZGUgPHR1cGxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgY29uc3Qgc3RkOjp2ZWN0b3I8c3RkOjp0dXBsZTxjb25zdCBjaGFyKiwgc2NoZW1lX3Q+PiBTQ0hFTUVTID0KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgeyJodHRwIiwgICAgc2NoZW1lX3Q6Omh0dHB9LAogICAgICAgICAgICAgICAgICAgICAgICB7Imh0dHBzIiwgICBzY2hlbWVfdDo6aHR0cHN9LAogICAgICAgICAgICAgICAgICAgICAgICB7InNobSIsICAgICBzY2hlbWVfdDo6c2htfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyJ0Y3AiLCAgICAgc2NoZW1lX3Q6OnRjcH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsidWRwIiwgICAgIHNjaGVtZV90Ojp1ZHB9LAogICAgICAgICAgICAgICAgICAgICAgICB7ImhlYXAiLCAgICBzY2hlbWVfdDo6aGVhcH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsiZmlsZSIsICAgIHNjaGVtZV90OjpmaWxlfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyJyZWRpcyIsICAgc2NoZW1lX3Q6OnJlZGlzfSwKICAgICAgICAgICAgICAgICAgICAgICAgeyJtYXgiLCAgICAgc2NoZW1lX3Q6Om1heH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsiaW52YWxpZCIsIHNjaGVtZV90OjppbnZhbGlkfQogICAgICAgICAgICAgICAgfTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">VVJJOjpGcmFnbWVudFJhbmdlIFVSSTo6ZmluZF9mcmFnbWVudChjb25zdCBzdGQ6OnN0cmluZyYga2V5KSBjb25zdCB7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGF1dG8gYmVnaW4gPSBmcmFnbWVudF8uY19zdHIoKTsKICAgIGF1dG8gZW5kID0gZnJhZ21lbnRfLmNfc3RyKCk7CgogICAgZG8gewogICAgICAgIGlmICgqZW5kID09ICc9JykgewogICAgICAgICAgICBpZiAoc3RkOjpzdHJpbmcoYmVnaW4sIGVuZCkgPT0ga2V5KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBiZWdpbiA9IGVuZCArIDE7CiAgICAgICAgICAgICAgICB3aGlsZSAoKihlbmQrKykgYW5kICplbmQgIT0gJyYnKSB7fQoKICAgICAgICAgICAgICAgIHJldHVybiB7YmVnaW4sIGVuZH07CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB3aGlsZSAoKihlbmQrKykgYW5kICplbmQgIT0gJyYnKSB7fQogICAgICAgICAgICAgICAgYmVnaW4gPSBlbmQgKyAxOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfSB3aGlsZSAoKihlbmQrKykpOwoKICAgIEV4Y2VwdGlvbkJ1aWxkZXI8Tm90Rm91bmQ+KCkgPDwgIm5vIGZyYWdtZW50OiIgPDwga2V5IDw8ICIgYXZhaWxhYmxlLiBzdHI6IiA8PCAoc3RkOjpzdHJpbmcpICp0aGlzOwoKICAgIHJldHVybiB7bnVsbHB0ciwgbnVsbHB0cn07</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWVzcGFjZSBkZXRhaWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSB2YWdyYW50IG9uIDEyLzE5LzE4LgovLwoKI2lmbmRlZiBYRVhfU0NIRU1FU1RSSU5HU19IUFAKI2RlZmluZSBYRVhfU0NIRU1FU1RSSU5HU19IUFAKCiNlbmRpZiAvL1hFWF9TQ0hFTUVTVFJJTkdTX0hQUAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBmcmFnbWVudCBoZWxwZXJzCiAgICAgICAgc3RydWN0IEZyYWdtZW50UmFuZ2UKICAgICAgICB7CiAgICAgICAgICAgIGNvbnN0IGNoYXIqIGJlZ2luID0gbnVsbHB0cjsKICAgICAgICAgICAgY29uc3QgY2hhciogZW5kID0gbnVsbHB0cjsKICAgICAgICB9OwoKICAgICAgICBGcmFnbWVudFJhbmdlIGZpbmRfZnJhZ21lbnQoY29uc3Qgc3RkOjpzdHJpbmcmIGtleSkgY29uc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Scheme</last-search>
+      <last-search>find_</last-search>
       <last-offset />
-      <last-pattern>Scheme</last-pattern>
+      <last-pattern>find_</last-pattern>
       <last-replace>scheme_t</last-replace>
       <last-substitute>Scheme</last-substitute>
       <last-dir>1</last-dir>
@@ -346,6 +362,8 @@
         <entry>owner_</entry>
         <entry>default_</entry>
         <entry>Scheme</entry>
+        <entry>find_fra</entry>
+        <entry>find_</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GTEST/googletest/g</entry>
@@ -356,11 +374,11 @@
         <entry>qw</entry>
         <entry>W</entry>
         <entry>q</entry>
-        <entry>wa</entry>
-        <entry>w</entry>
         <entry>%s/Scheme/scheme_t/g</entry>
         <entry>%s/Scheme/scheme_t/gc</entry>
         <entry>qa</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
