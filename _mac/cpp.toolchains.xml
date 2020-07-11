@@ -1,8 +1,8 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
+      <toolchain name="dev-rlong" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="8ec838a3-b3c6-40f5-a40e-316a7e76a8f8" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/c" customCXXCompilerPath="/usr/bin/c++" hostId="a2627f7a-d547-4a8d-a7e7-ae9b190cc837" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
     </toolchains>
   </component>
 </application>

@@ -4,6 +4,9 @@
       <webServer id="a2627f7a-d547-4a8d-a7e7-ae9b190cc837" name="Remote Host (a2627f7a-d547-4a8d-a7e7-ae9b190cc837)" url="http:///">
         <fileTransfer accessType="SFTP" host="10.157.1.34" port="22" sshConfigId="3dcb235c-5e53-45a4-8d91-a8273033c3f3" sshConfig="rlong@10.157.1.34:22 key" keyPair="true" />
       </webServer>
+      <webServer id="8ec838a3-b3c6-40f5-a40e-316a7e76a8f8" name="dev-rlong (8ec838a3-b3c6-40f5-a40e-316a7e76a8f8)" url="http:///">
+        <fileTransfer accessType="SFTP" host="10.157.1.34" port="22" sshConfigId="3dcb235c-5e53-45a4-8d91-a8273033c3f3" sshConfig="rlong@10.157.1.34:22 key" keyPair="true" />
+      </webServer>
     </option>
   </component>
 </application>
